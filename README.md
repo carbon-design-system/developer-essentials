@@ -97,6 +97,14 @@ Where possible, try to coordinate these lab learning sessions so that various la
 
 Outcome: participants will receive badges/credentials of completion
 
+## 3.0  Overview of the content
+
+Approach everything with a huge dose of humility
+Show, don't tell. 
+Be extra, extra, extra sure to show ACTUAL use cases where developers have used the components 
+"Please Give us your feedback"   (that's Hill 3) 
+"We know that we haven't thought of everything. There are complexities that we haven't gotten to yet that you're having to deal with. Please give us your feedback."
+
 ### Lab 1 - Getting Started
 ### Lab 2 - Layout & Grid
 ### Lab 3 - Content & Polish
