@@ -105,8 +105,25 @@ Be extra, extra, extra sure to show ACTUAL use cases where developers have used 
 "Please Give us your feedback"   (that's Hill 3) 
 "We know that we haven't thought of everything. There are complexities that we haven't gotten to yet that you're having to deal with. Please give us your feedback."
 
+Schedule will be alternating with FEDucation
+
 ### Lab 1 - Getting Started
+4/16/2019 
+10 am US Central Time
+
 ### Lab 2 - Layout & Grid
+4/30/2019 
+10 am US Central Time
+
 ### Lab 3 - Content & Polish
+5/14/2019
+10 am US Central Time
+
 ### Lab 4 - Builds & Performance 
+5/28/2019 
+10 am US Central Time
+
 ### Lab 5 - Using APIs & GraphQL
+6/11/2019 
+10 am US Central Time
+
