@@ -80,6 +80,7 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * Böblingen, Germany 
 * Budapest, Hungary 
 * Chennai, TN, India 
+* Dublin, Ireland
 * Hursley, UK  
 * Littleton, Massachusetts, US   
 * Poughkeepsie, New York, US  
