@@ -6,7 +6,7 @@ For creation of Developer Essentials course for Carbon / Front-end Skills
 ## Program details
 
 
-###  Overview
+### Overview
 
 Format: Online Lab Instruction, plus scheduled lab sessions
 
@@ -24,7 +24,7 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * Rochester, Minnesota, US  
 * San Francisco, California, US 
 
-###  Dates and timing  
+### Dates and timing  
 
 * Launch the program by March 31, 2019
 * 10-15 minute presentation to introduce the topics, and the links to syllabus items.
