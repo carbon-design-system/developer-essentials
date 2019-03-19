@@ -37,28 +37,27 @@ Outcome: participants will receive badges/credentials of completion
 Approach everything with a huge dose of humility
 Show, don't tell. 
 Be extra, extra, extra sure to show ACTUAL use cases where developers have used the components 
-"Please Give us your feedback"   (that's Hill 3) 
+"Please Give us your feedback" (that's Hill 3) 
 "We know that we haven't thought of everything. There are complexities that we haven't gotten to yet that you're having to deal with. Please give us your feedback."
 
-Schedule will be alternating with FEDucation
 
 ### Lab 1 - Getting Started
-* 
+* May 28, 2019
 * 10 am US Central Time
 
 ### Lab 2 - Layout & Grid
-* 
+* June 4, 2019
 * 10 am US Central Time
 
 ### Lab 3 - Content & Polish
-* 
+* June 11, 2019
 * 10 am US Central Time
 
 ### Lab 4 - Builds & Performance 
-* 
+* June 18, 2019
 * 10 am US Central Time
 
 ### Lab 5 - Using APIs & GraphQL
-*  
+* June 25, 2019
 * 10 am US Central Time
 
