@@ -5,8 +5,8 @@ For creation of Developer Essentials course for Carbon / Front-end Skills
 
 Design System Developer Essentials Distance Learning course 
 
-Live lab introduction sessions during FEDucation times - will be livestreamed 
-Learning activities which can be completed independently or as part of classroom sessions proxied by FED@IBM local branch leaders
+* Lab content introduction sessions during FEDucation times - will be recorded and played back or livestreamed. 
+* Learning activities which can be completed independently or as part of classroom sessions led by FED@IBM local branch leaders
 
 
 ### Overview
