@@ -1,17 +1,16 @@
 # IBM Design System Developer Essentials - Learning Bundle
-For creation of Developer Essentials course for Carbon / Front-end Skills
+For creation of Developer Essentials Course for Carbon / Front-end Skills
 
 ## Program details
 
 Design System Developer Essentials Distance Learning course 
 
-* Lab content introduction sessions during FEDucation times - will be recorded and played back or livestreamed. 
+* Lab content introduction sessions during FEDucation times - will be recorded and played back or livestreamed
 * Learning activities which can be completed independently or as part of classroom sessions led by FED@IBM local branch leaders
 
+## Overview
 
-### Overview
-
-Format: Online Lab Instruction, plus scheduled lab sessions
+Format: Online lab instruction, plus scheduled lab sessions
 
 Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees at these sites:
 
@@ -28,14 +27,22 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * San Francisco, California, US 
 
 
-## Dates and timing  
+## Dates
 
-* Launch the program by March 31, 2019
-* 10-15 minute presentation to introduce the topics, and the links to syllabus items.
-* Coordinate with FED@IBM chapters to arrange on-site developer led sessions to go through these five sections. 
-* Provide resources for individual learning for any developer.
+* 03/31/19 - program launch
+* 05/13/19 - lab content complete
+* 05/28/19 - lab 1
+* 06/04/19 - lab 2
+* 06/11/19 - lab 3
+* 06/18/19 - lab 4
+* 06/25/19 - lab 5
 
-Outcome: participants will receive badges/credentials of completion
+## Format
+
+1. Prior to each lab, release the Carbon website tutorial step for the lab
+1. 10-15 minute presentation to introduce the topics and tutorial step
+1. FED@IBM chapters have on-site developer-led sessions to go through the session's tutorial step
+1. Outcome: participants will receive badges/credentials of completion
 
 ## Overview of the content
 
