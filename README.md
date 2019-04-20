@@ -19,6 +19,7 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * Budapest, Hungary 
 * Chennai, TN, India 
 * Dublin, Ireland
+* Endicott, NY
 * Hursley, UK  
 * Littleton, Massachusetts, US   
 * Poughkeepsie, New York, US  
@@ -46,23 +47,23 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 
 ## Overview of the content
 
-### DS Developer Essentials - Getting Started
+### DS Developer Essentials - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)
 * May 28, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Layout & Grid
+### DS Developer Essentials - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)
 * June 4, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Content & Polish
+### DS Developer Essentials - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3)
 * June 11, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Builds & Performance 
+### DS Developer Essentials - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4) 
 * June 18, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Using APIs & GraphQL
+### DS Developer Essentials - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5)
 * June 25, 2019
 * 10 am US Central Time
 
