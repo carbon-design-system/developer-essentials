@@ -39,15 +39,15 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * 06/25/19 - lab 5
 
 ## Development timeline 
-4/26
-- Tutorial design
-- [tutorial-repo](https://github.com/carbon-design-system/developer-essentials/issues/6)
-- [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)
-5/1 Lab 1 - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)
-5/6 Lab 2 - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)
-5/8 Lab 3 - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3)
-5/13 Lab 4 - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4) 
-5/16 Lab 5 - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5)
+1. 4/26 
+* Tutorial design
+* [tutorial-repo](https://github.com/carbon-design-system/developer-essentials/issues/6)
+* [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)  
+2. 5/1 Lab 1 - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)  
+3. 5/6 Lab 2 - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)  
+4. 5/8 Lab 3 - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3) 
+5. 5/13 Lab 4 - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4)  
+6. 5/16 Lab 5 - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5) 
 
 
 ## Format
