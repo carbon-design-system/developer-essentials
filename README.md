@@ -38,32 +38,50 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * 06/18/19 - lab 4
 * 06/25/19 - lab 5
 
-## Format
+## Development timeline 
+4/26
+- Tutorial design
+- [tutorial-repo](https://github.com/carbon-design-system/developer-essentials/issues/6)
+- [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)
+5/1 Lab 1 - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)
+5/6 Lab 2 - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)
+5/8 Lab 3 - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3)
+5/13 Lab 4 - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4) 
+5/16 Lab 5 - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5)
 
-1. Prior to each lab, release the Carbon website tutorial step for the lab
-1. 10-15 minute presentation to introduce the topics and tutorial step
-1. FED@IBM chapters have on-site developer-led sessions to go through the session's tutorial step
-1. Outcome: participants will receive badges/credentials of completion
+
+## Format
+* Each lab is a tutorial step that we make available in `carbon-website` the day prior
+* We have `carbon-tutorial` repo published, and also day prior we publish a new branch for each tutorial step
+  * Tutorial repo is configured with Netlify, test runner, and Circle CI
+  * The branches act as a starting point for if somebody missed the first lab, etc.
+  * The branches also are seeded with failing tests
+  * To verify lab completion, participants submit PR that they can view Netlify preview link and CI verifies passing tests
+  * Kelly and team review PRs and comment then close instead of merging participant PRs
+* Each tutorial should take an hour or two to complete
+* Those responsible for each tutorial step will introduce it (10-15 talk) at the broadcasted FED@IBM events
+* FED@IBM chapters have on-site developer-led sessions to go through the session's tutorial step
+* Outcome: participants will receive badges/credentials of completion
 
 ## Overview of the content
 
-### DS Developer Essentials - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)
+### DS Developer Essentials - Getting Started
 * May 28, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)
+### DS Developer Essentials - Layout & Grid
 * June 4, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3)
+### DS Developer Essentials - Populating components using APIs/GraphQL
 * June 11, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4) 
+### DS Developer Essentials - Contributing to Carbon 
 * June 18, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5)
+### DS Developer Essentials - Build & Deploy
 * June 25, 2019
 * 10 am US Central Time
 
