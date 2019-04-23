@@ -14,17 +14,17 @@ Format: Online lab instruction, plus scheduled lab sessions
 
 Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees at these sites:
 
-* Austin, Texas, US  
-* Böblingen, Germany 
+* Austin, Texas, US [Register Link](https://ec.yourlearning.ibm.com/w3/event/10021637)   
+* Böblingen, Germany [Register Link](https://ec.yourlearning.ibm.com/w3/event/10019918) 
 * Budapest, Hungary 
 * Chennai, TN, India 
 * Dublin, Ireland
-* Endicott, NY
-* Hursley, UK  
+* Endicott, NY [Register Link](https://ec.yourlearning.ibm.com/w3/meeting/10021832)  
+* Hursley, UK
 * Littleton, Massachusetts, US   
-* Poughkeepsie, New York, US  
+* Poughkeepsie, New York, US [Register Link](https://ec3.mybluemix.net/w3/event/10017673)  
 * RTP, North Carolina, US 
-* Rochester, Minnesota, US  
+* Rochester, Minnesota, US [Register Link](https://ec.yourlearning.ibm.com/w3/event/10022068)  
 * San Francisco, California, US 
 
 
