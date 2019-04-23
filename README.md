@@ -40,14 +40,14 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 
 ## Development timeline 
 1. 4/26 
-* Tutorial design
-* [tutorial-repo](https://github.com/carbon-design-system/developer-essentials/issues/6)
-* [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)  
-2. 5/1 Lab 1 - [Getting Started](https://github.com/carbon-design-system/developer-essentials/issues/1)  
-3. 5/6 Lab 2 - [Layout & Grid](https://github.com/carbon-design-system/developer-essentials/issues/2)  
-4. 5/8 Lab 3 - [Populating components using APIs/GraphQL](https://github.com/carbon-design-system/developer-essentials/issues/3) 
-5. 5/13 Lab 4 - [Contributing to Carbon](https://github.com/carbon-design-system/developer-essentials/issues/4)  
-6. 5/16 Lab 5 - [Build & Deploy](https://github.com/carbon-design-system/developer-essentials/issues/5) 
+    * Tutorial design
+    * [tutorial-repo](https://github.com/carbon-design-system/developer-essentials/issues/6)
+    * [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)  
+2. 5/1 Lab 1 - [Getting started with Carbon React](https://github.com/carbon-design-system/developer-essentials/issues/1)  
+3. 5/6 Lab 2 - [Building pages with layout, grid, colors, and icons](https://github.com/carbon-design-system/developer-essentials/issues/2)  
+4. 5/8 Lab 3 - [Populating components with APIs](https://github.com/carbon-design-system/developer-essentials/issues/3) 
+5. 5/13 Lab 4 - [Creating new components](https://github.com/carbon-design-system/developer-essentials/issues/4)  
+6. 5/16 Lab 5 - [Deploying to IBM Cloud](https://github.com/carbon-design-system/developer-essentials/issues/5) 
 
 
 ## Format
@@ -65,23 +65,23 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 
 ## Overview of the content
 
-### DS Developer Essentials - Getting Started
+### DS Developer Essentials - Getting started with Carbon React
 * May 28, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Layout & Grid
+### DS Developer Essentials - Building pages with layout, grid, colors, icons
 * June 4, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Populating components using APIs/GraphQL
+### DS Developer Essentials - Populating components with APIs
 * June 11, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Contributing to Carbon 
+### DS Developer Essentials - Creating new components
 * June 18, 2019
 * 10 am US Central Time
 
-### DS Developer Essentials - Build & Deploy
+### DS Developer Essentials - Deploying to IBM Cloud
 * June 25, 2019
 * 10 am US Central Time
 
