@@ -31,7 +31,7 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 ## Dates
 
 * 03/31/19 - program launch
-* 05/13/19 - lab content complete
+* 05/16/19 - lab content complete
 * 05/28/19 - lab 1
 * 06/04/19 - lab 2
 * 06/11/19 - lab 3
