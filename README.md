@@ -25,7 +25,7 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * Poughkeepsie, New York, US [Register Link](https://ec3.mybluemix.net/w3/event/10017673)  
 * RTP, North Carolina, US 
 * Rochester, Minnesota, US [Register Link](https://ec.yourlearning.ibm.com/w3/event/10022068)  
-* San Francisco, California, US 
+* San Francisco, California, US [Register Link](https://ec.yourlearning.ibm.com/w3/event/10022539)
 
 
 ## Dates
