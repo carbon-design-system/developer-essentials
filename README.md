@@ -45,9 +45,9 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
     * [carbon-website content strategy](https://github.com/carbon-design-system/developer-essentials/issues/7)  
 2. 5/1 Lab 1 - [Getting started with Carbon React](https://github.com/carbon-design-system/developer-essentials/issues/1)  
 3. 5/6 Lab 2 - [Building pages with layout, grid, colors, and icons](https://github.com/carbon-design-system/developer-essentials/issues/2)  
-4. 5/8 Lab 3 - [Populating components with APIs](https://github.com/carbon-design-system/developer-essentials/issues/3) 
-5. 5/13 Lab 4 - [Creating new components](https://github.com/carbon-design-system/developer-essentials/issues/4)  
-6. 5/16 Lab 5 - [Deploying to IBM Cloud](https://github.com/carbon-design-system/developer-essentials/issues/5) 
+4. 5/9 Lab 3 - [Populating components with APIs](https://github.com/carbon-design-system/developer-essentials/issues/3) 
+5. 5/14 Lab 4 - [Creating new components](https://github.com/carbon-design-system/developer-essentials/issues/4)  
+6. 5/17 Lab 5 - [Deploying to IBM Cloud](https://github.com/carbon-design-system/developer-essentials/issues/5) 
 
 
 ## Format
