@@ -18,8 +18,8 @@ Leveraging FED@IBM local branch leaders who can be in-room proxies for attendees
 * Böblingen, Germany [Register Link](https://ec.yourlearning.ibm.com/w3/event/10019918) 
 * Budapest, Hungary 
 * Chennai, TN, India 
-* Dublin, Ireland
-* Endicott, NY [Register Link](https://ec.yourlearning.ibm.com/w3/meeting/10021832)  
+* Dublin, Ireland [Register Link](https://ec.yourlearning.ibm.com/w3/event/10022786) 
+* Endicott, NY [Register Link](https://ec.yourlearning.ibm.com/w3/event/10021832)  
 * Hursley, UK
 * Littleton, Massachusetts, US   
 * Poughkeepsie, New York, US [Register Link](https://ec3.mybluemix.net/w3/event/10017673)  
